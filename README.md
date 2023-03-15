@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+#to see the deployed app
+clone-e9240.firebaseapp.com
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
